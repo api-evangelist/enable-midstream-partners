@@ -1,7 +1,12 @@
 aid: enable-midstream-partners
-url: https://raw.githubusercontent.com/api-evangelist/enable-midstream-partners/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/enable-midstream-partners/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.enable-midstream-partners.com
+description: >-
+  Enable Midstream Partners is a midstream energy company engaged in the gathering,
+  processing, transportation, and storage of natural gas, natural gas liquids, and
+  crude oil.
