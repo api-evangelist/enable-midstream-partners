@@ -1,7 +1,9 @@
 ---
 title: Enable-Energy Transfer's $7.2B merger gets mixed ...
 url: https://www.spglobal.com/market-intelligence/en/news-insights/articles/2021/2/enable-energy-transfer-s-7-2b-merger-gets-mixed-reviews-amid-m-a-frustration-62714571
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Enable Midstream Partners" press release artificial intelligence'
 position: 1
 source: serpapi-google
