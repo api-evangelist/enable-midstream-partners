@@ -31,6 +31,11 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/enable-midstream-partners.png
+x-status: "acquired"
+x-acquired-by: "energy-transfer"
+x-acquired-date: "2021-12-02"
+x-status-source: "https://www.worldpipelines.com/business-news/03122021/energy-transfer-completes-acquisition-of-enable-midstream/"
+x-status-evidence: "Energy Transfer completed its acquisition of Enable Midstream Partners on 2021-12-02; enablemidstream.com no longer resolves (roadmap#867)"
 tags:
   - Acquired
   - Crude Oil
