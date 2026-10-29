@@ -1,4 +1,4 @@
-# Enable Midstream Partners (enable-midstream-partners)
+# Enable Midstream Partners
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,42 +64,44 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
+
 Enable Midstream Partners was a midstream energy company engaged in the gathering, processing, transportation, and storage of natural gas, natural gas liquids, and crude oil. Enable Midstream Partners was acquired by Energy Transfer LP in December 2021 and operations have been integrated into Energy Transfer's midstream business. No public developer APIs are published for this entity.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/enable-midstream-partners/refs/heads/main/apis.yml)
+**Areas:** Acquired · Crude Oil · Energy · Midstream · Natural Gas · Pipelines
 
-## Scope
+## Enable Midstream Partners on APIs.io (historical record)
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for Enable Midstream Partners is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/enable-midstream-partners/](https://apis.io/providers/enable-midstream-partners/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Acquired
-- Crude Oil
-- Energy
-- Midstream
-- Natural Gas
-- Pipelines
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-04-28
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Enable Midstream Partners Domain Security](https://apis.io/security/enable-midstream-partners/enable-midstream-partners-domain-security/)
 
-No APIs have been documented yet. Enable Midstream Partners was acquired by Energy Transfer LP in December 2021; operations now fall under Energy Transfer's midstream business and no public developer APIs are published.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.energytransfer.com/)
-- [Acquirer](https://www.energytransfer.com/)
-- [Reference](https://en.wikipedia.org/wiki/Energy_Transfer_Partners)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
 
-**Email:** kin@apievangelist.com
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Enable Midstream Partners: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/enable-midstream-partners/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
